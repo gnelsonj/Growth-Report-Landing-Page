@@ -1,0 +1,27 @@
+/* line 1, ../sass/style.sass */
+body,
+h1,
+h2,
+h3 {
+  font-family: "Roboto";
+}
+
+/* line 7, ../sass/style.sass */
+body {
+  color: #444;
+}
+
+/* line 10, ../sass/style.sass */
+.bg-theme-green {
+  background-color: #79BD8F;
+}
+
+/* line 13, ../sass/style.sass */
+.bg-theme-grey {
+  background-color: #E4FFFA;
+}
+
+/* line 16, ../sass/style.sass */
+.btn-primary {
+  background-color: #FF6138;
+}
